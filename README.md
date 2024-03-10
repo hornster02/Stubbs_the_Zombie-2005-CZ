@@ -20,10 +20,6 @@ https://github.com/hornster02/Stubbs_the_Zombie-2005-CZ/raw/main/openal.rar
 <br/>
 -pokud hra nejde spustit, tak přejmenovat "Stubbs.exe" na "CoDSP.exe"
 
-widescreen fix
-<br/>
-https://www.pcgamingwiki.com/wiki/Stubbs_the_Zombie_in_Rebel_Without_a_Pulse
-
 Autohotkey v1.1
 <br/>
 X - přepínač skrčení
