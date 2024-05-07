@@ -18,10 +18,6 @@ Postup
 <br/>
 Chyby
 <br/>
--pokud v systému chybí OpenAL knihovny nebo nejde zvuk, tak je možné použít toto (nakopírovat do hry)
-<br/>
-https://github.com/hornster02/Stubbs_the_Zombie-2005-CZ/raw/main/openal.rar
-
 -pokud hra nejde spustit, tak přejmenovat "Stubbs.exe" na "CoDSP.exe"
 <br/>
 <br/>
